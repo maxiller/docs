@@ -38,6 +38,7 @@
         - Нажмите на свое фото в правом верхнем углу и выберите **Settings**.
         - На панели слева выберите **Developer settings** → **Personal access token** → **Tokens (classic)**.
         - Нажмите кнопку **Generate new token**.
+        - В выпадающем меню ыберите **Generate new token (classic)**
 
         - Придумайте название для токена.
 
